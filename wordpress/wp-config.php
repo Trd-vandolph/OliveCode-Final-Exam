@@ -21,7 +21,7 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-define('DB_NAME', 'olivecode-final-exam');
+define('DB_NAME', 'olivecode-chapter24');
 
 /** MySQL データベースのユーザー名 */
 define('DB_USER', 'root');
